@@ -1,0 +1,7 @@
+encrypt:
+#  key: abcdefhijklmnopqrstuvwxyz1234567890
+    key-store:
+#        location: file://${user.home}/MSA/keystore/apiEncryptionKey.jks
+        location: file:/apiEncryptionKey.jks
+        password: 1234test
+        alias: apiEncryptionKey
