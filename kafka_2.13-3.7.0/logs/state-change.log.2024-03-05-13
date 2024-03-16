@@ -1,0 +1,6 @@
+[2024-03-05 13:08:18,996] INFO [Controller id=0 epoch=2] Sending UpdateMetadata request to brokers HashSet(0) for 0 partitions (state.change.logger)
+[2024-03-05 13:08:19,012] INFO [Controller id=0 epoch=2] Sending LeaderAndIsr request to broker 0 with 51 become-leader and 0 become-follower partitions (state.change.logger)
+[2024-03-05 13:08:19,013] INFO [Controller id=0 epoch=2] Sending UpdateMetadata request to brokers HashSet(0) for 51 partitions (state.change.logger)
+[2024-03-05 13:12:36,007] INFO [Controller id=0 epoch=3] Sending UpdateMetadata request to brokers HashSet(0) for 0 partitions (state.change.logger)
+[2024-03-05 13:12:36,020] INFO [Controller id=0 epoch=3] Sending LeaderAndIsr request to broker 0 with 51 become-leader and 0 become-follower partitions (state.change.logger)
+[2024-03-05 13:12:36,021] INFO [Controller id=0 epoch=3] Sending UpdateMetadata request to brokers HashSet(0) for 51 partitions (state.change.logger)
